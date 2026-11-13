@@ -7,10 +7,10 @@
 ![Prompts](https://img.shields.io/badge/prompts-32-4c9f70)
 ![Targets](https://img.shields.io/badge/targets-26%2B-2f6f9f)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github)
-![Stars](https://img.shields.io/github/stars/togg53192-cmd/jailbreaks?style=flat&logo=github&color=yellow)
+![Stars](https://img.shields.io/github/stars/qq492032703-alt/jailbreaks?style=flat&logo=github&color=yellow)
 
 <p align="center">
- <a href="https://www.star-history.com/togg53192-cmd/jailbreaks"><img src="https://api.star-history.com/badge?repo=togg53192-cmd/jailbreaks&type=rank&theme=dark" alt="Star History Rank" /> <img src="https://api.star-history.com/badge?repo=togg53192-cmd/jailbreaks&type=trending&theme=dark" alt="GitHub Trending Repository of the Day" /></a>
+ <a href="https://www.star-history.com/qq492032703-alt/jailbreaks"><img src="https://api.star-history.com/badge?repo=qq492032703-alt/jailbreaks&type=rank&theme=dark" alt="Star History Rank" /> <img src="https://api.star-history.com/badge?repo=qq492032703-alt/jailbreaks&type=trending&theme=dark" alt="GitHub Trending Repository of the Day" /></a>
 </p>
 
 </div>
@@ -228,13 +228,22 @@ A good contribution should follow these conventions:
 
 Found something that no longer behaves as documented? Opening an issue with the model, version, and affected file is already useful.
 
+## Upstream
+
+This repository is a mirror of [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks). The upstream project remains the source of truth for all prompts; corrections belong there. Sync locally with:
+
+```bash
+git pull origin main
+git push mine main
+```
+
 ## Star History
 
-<a href="https://www.star-history.com/?repos=togg53192-cmd%2Fjailbreaks&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=qq492032703-alt%2Fjailbreaks&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=qq492032703-alt/jailbreaks&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=qq492032703-alt/jailbreaks&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=qq492032703-alt/jailbreaks&type=date&logscale&legend=top-left" />
  </picture>
 </a>
 
